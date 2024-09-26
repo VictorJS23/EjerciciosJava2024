@@ -1,7 +1,5 @@
 
 import java.util.Scanner;
-// import java.util.Arrays;
-// import javax.swing.JOptionPane;
 
 // Crea un programa que valide si una tarjeta de crédito es real o no
 
