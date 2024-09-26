@@ -3,6 +3,16 @@ import java.util.Scanner;
 // import java.util.Arrays;
 // import javax.swing.JOptionPane;
 
+// Crea un programa que valide si una tarjeta de crédito es real o no
+
+/*
+ * 1- Invertir el orden de los digitos.
+ * 
+ * 2- Multiplicar cada segundo digito comenzando desde el primer digito y si en algun caso estos llegan a ser 2 digitos, estos se tiene que sumar.
+ * 
+ * 3- sumar todos los digitos y el resultado es redondo o divisible entre 10 esta ok
+ */
+
 public class App {
     public static void main(String[] args) {
 
