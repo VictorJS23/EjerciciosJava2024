@@ -22,7 +22,7 @@ public class App {
         // entrada.close();
 
         Scanner input = new Scanner(System.in);
-        input.useLocale(Locale.US);
+        input.useLocale(Locale.US); // permitir el uso del "." en los decimales
 
         System.out.print("Ingrese el numero de alumnos en su clase: ");
         int numero = input.nextInt();
