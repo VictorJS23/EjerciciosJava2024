@@ -1,0 +1,5 @@
+Asignacion numero #1
+29/09/2024
+
+Haz un programa Java que lea la base y la altura de un rectángulo,
+y muestre su área y su perímetro.

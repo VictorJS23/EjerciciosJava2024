@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Locale; // Esto funciona para forzar el uso del . en los decimales
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
 
         /*
          * "Calcular el precio de venta de un producto, si se sabe que este debe tener una ganancia del 30% en relacion al precio de compra"

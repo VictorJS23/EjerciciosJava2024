@@ -1,0 +1,6 @@
+Asignacion numero #2
+29/09/2024
+
+Haz un programa Java que lea el radio de una circunferencia,
+y muestre su perímetro y su área.
+
