@@ -1,9 +1,11 @@
 import java.util.Scanner;
+import java.util.Locale;
 
 public class App {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
+        input.useLocale(Locale.US);
 
         System.out.print("Ingrese el peso en kg: ");
         double peso = input.nextDouble();
