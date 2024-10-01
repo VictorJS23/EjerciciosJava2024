@@ -1,0 +1,1 @@
+Haz un programa Java que lea el peso y la estatura de una persona y caclule su IMC (Índice de Masa Corporal) y la categorice en las 4 categorías definidas en
